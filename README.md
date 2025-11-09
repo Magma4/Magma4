@@ -16,4 +16,4 @@ Python | AI/ML | Cloud & DevOps ⚡
 [cite_start]**DevOps:** AWS, Docker, Kubernetes, CI/CD [cite: 36]
 
 ---
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-profile-url) | [cite_start][raymondamoateng@gmail.com](mailto:raymondamoateng@gmail.com) [cite: 1]
+[LinkedIn](https://www.linkedin.com/in/raymond-frimpong) | [cite_start][raymondamoateng@gmail.com](mailto:raymondamoateng@gmail.com) [cite: 1]
