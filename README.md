@@ -1,7 +1,7 @@
 # Raymond Frimpong Amoateng
 **Python | AI/ML | Cloud & DevOps ⚡**
 
-Software Development Engineer and M.S. Computer Science student at the University of New Haven. Experienced in building scalable backend systems for 20K+ users using **Python (Django)** and **React**, migrating monolithic applications to **microservices**, and automating **CI/CD pipelines** with **GitHub Actions**, **Docker**, and **Kubernetes**.
+Software Development Engineer and M.S. Computer Science student. Experienced in building scalable backend systems for 20K+ users using **Python (Django)** and **React**, migrating monolithic applications to **microservices**, and automating **CI/CD pipelines** with **GitHub Actions**, **Docker**, and **Kubernetes**.
 
 ## Featured Projects
 - **Indoor AI Navigation Agent** – Developed an autonomous A* search agent within a 3D Unity environment.  
