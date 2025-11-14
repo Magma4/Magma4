@@ -1,5 +1,5 @@
 # Raymond Frimpong Amoateng
-**Python | AI/ML | Cloud & DevOps ⚡**
+**Python | Applied AI/ML | Cloud & DevOps ⚡**
 
 Software Development Engineer and M.S. Computer Science student. Experienced in building scalable backend systems for 20K+ users using **Python (Django)** and **React**, migrating monolithic applications to **microservices**, and automating **CI/CD pipelines** with **GitHub Actions**, **Docker**, and **Kubernetes**.
 
@@ -12,7 +12,7 @@ P.S: Signed an NDA on most projects :)
 
 
 ## Core Technologies
-**Languages:** Python, Java, JavaScript, SQL, C/C++, C# **
+**Languages:** Python, Java, JavaScript, SQL, C/C++
 **Frameworks:** Django, React, Flask, PyTorch  
 **DevOps:** AWS, Docker, Kubernetes, CI/CD
 
