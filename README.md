@@ -12,8 +12,8 @@ P.S: Signed an NDA on most projects :)
 
 
 ## Core Technologies
-**Languages:** Python, Java, JavaScript, SQL, C/C++
-**Frameworks:** Django, React, Flask, PyTorch  
+**Languages:** Python, Java, JavaScript, SQL, C/C++, C#.
+**Frameworks:** Django, React, Flask, PyTorch.
 **DevOps:** AWS, Docker, Kubernetes, CI/CD
 
 ---
