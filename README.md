@@ -18,4 +18,4 @@ P.S: Signed an NDA on most projects :)
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/raymond-frimpong) • [raymondamoateng@gmail.com](mailto:raymondamoateng@gmail.com)
+📫 [LinkedIn](https://www.linkedin.com/in/raymond-frimpong) • [raymondamoateng@gmail.com](mailto:raymondamoateng@gmail.com) • [website](https://ray-dev.tech)
