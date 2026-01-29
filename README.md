@@ -7,8 +7,6 @@ Software Development Engineer and M.S. Computer Science student focused on build
 
 ## Featured Projects
 
-> _Note: Several professional projects are under NDA. The projects below reflect my independent and open-source work._
-
 ### **Avera — Explainable Safety Intelligence Platform**
 Production-ready web application providing explainable safety snapshots for U.S. neighborhoods by aggregating crime data, public alerts, and environmental signals. Also provides safest shortest path to your destination using A* to manuever dangerous neighborhoods.
 **Tech:** Python, Django REST Framework, React (Next.js), PostgreSQL/PostGIS, Mapbox  
